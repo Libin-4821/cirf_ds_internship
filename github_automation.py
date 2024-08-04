@@ -9,8 +9,8 @@ import requests
 import json
 
 GITHUB_USERNAME = "Libin-4821"
-ACCESS_TOKEN = "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" 
-REPO_NAME = "cirf_ds_internship"
+ACCESS_TOKEN = "" #Removed this because the token generated shouldn't be shared
+REPO_NAME = "cirf_ds_internship" 
 
 API_ENDPOINT = f"https://api.github.com/user/repos"
 
